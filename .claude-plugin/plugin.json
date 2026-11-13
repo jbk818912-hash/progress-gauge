@@ -1,0 +1,6 @@
+{
+  "name": "progress-gauge",
+  "version": "0.3.0",
+  "description": "채팅 입력창 위에 현재 작업 단계와 진행도 게이지 바를 보여줍니다",
+  "types": "./types/index.d.ts"
+}

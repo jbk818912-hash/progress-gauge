@@ -1,0 +1,5 @@
+{
+  "name": "progress-gauge-marketplace",
+  "owner": { "name": "progress-gauge" },
+  "plugins": [{ "name": "progress-gauge", "source": "./" }]
+}
